@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-simple Python program that solves the N queens problem using a 
+simple Python program that solves the N queens problem using a
 recursive backtracking approach to find all possible solutions:
 """
 
