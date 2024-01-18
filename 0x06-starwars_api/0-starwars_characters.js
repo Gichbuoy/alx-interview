@@ -1,9 +1,6 @@
 #!/usr/bin/node
-/**
- * Print all characters of a Star Wars movie based on the Movie ID.
- *
- * @param {number} movieId - The Movie ID (e.g., 1 for "A New Hope").
- */
+// Print all characters of a Star Wars movie based on the Movie ID.
+
 const request = require('request');
 const API_URL = 'https://swapi-api.alx-tools.com/api';
 
